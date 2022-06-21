@@ -224,7 +224,7 @@ input, select, textarea {
 	}
 
 	code {
-		background: #f7f7f7;
+		background: #E8E8E8;
 		border-radius: 0.35em;
 		border: solid 2px #efefef;
 		font-family: "Courier New", monospace;
@@ -2463,7 +2463,7 @@ input, select, textarea {
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		background-color: transparent;
 		border-radius: 0.35em;
-		border: solid 3px #efefef;
+		border: solid 3px #C8C8C8;
 		color: #787878 !important;
 		cursor: pointer;
 		display: inline-block;
@@ -2482,8 +2482,8 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			border-color: #49bf9d;
-			color: #49bf9d !important;
+			border-color: #202020;
+			color: #202020 !important;
 		}
 
 		input[type="submit"]:active,
@@ -2491,8 +2491,8 @@ input, select, textarea {
 		input[type="button"]:active,
 		.button:active {
 			background-color: rgba(73, 191, 157, 0.1);
-			border-color: #49bf9d;
-			color: #49bf9d !important;
+			border-color: #202020;
+			color: #202020 !important;
 		}
 
 		input[type="submit"].icon,
@@ -2535,8 +2535,8 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #49bf9d;
-			border-color: #49bf9d;
+			background-color: #202020;
+			border-color: #202020;
 			color: #ffffff !important;
 		}
 
@@ -2707,7 +2707,7 @@ input, select, textarea {
 	}
 
 		#main > section {
-			border-top: solid 2px #efefef;
+			border-top: solid 2px #E0E0E0;
 			margin: 4em 0 0 0;
 			padding: 4em 0 0 0;
 		}
